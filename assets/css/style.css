@@ -15,11 +15,10 @@
 
 .plainclass1 {
   color:            white;
-  background-color: white;
+  background-color: black;
 }
 
 .container {
-  color: black;
   max-width:    70%;
   margin:       0 auto;
   font-size:    1.1em;
